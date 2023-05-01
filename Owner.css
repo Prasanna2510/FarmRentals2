@@ -1,0 +1,308 @@
+.left-part {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding: 1rem;
+}
+.left-part1 {
+  width: 25%;
+}
+.left-part2 {
+  background-color: rgb(104 172 93);
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  border-top-right-radius: 50px;
+  border-top-left-radius: 50px;
+}
+.left-part3 {
+  line-height: 1.75rem;
+  font-size: 1.125rem;
+  font-weight: 700;
+  text-align: center;
+  color: rgb(255 255 255);
+  font-family: Montserrat, sans-serif;
+}
+.left-part4 {
+  border: thin solid;
+  border-color: rgba(148, 148, 148, 0.568);
+  padding-bottom: 1.5rem;
+  padding-top: 1.5rem;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+.left-part5 {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+  color: rgb(79 79 79);
+  border-bottom: 1px solid rgb(104, 172, 93);
+  padding-bottom: 0.25rem;
+  font-family: -apple-system, Segoe UI, Helvetica Neue, sans-serif;
+}
+.left-part6 {
+  margin: 1.25rem;
+  display: flex;
+  justify-content: space-between;
+}
+.left-part7 {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  color: rgb(79 79 79);
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid rgb(104, 172, 93);
+  margin-left: 1rem;
+  font-family: -apple-system, Segoe UI, Helvetica Neue, sans-serif;
+}
+.left-part8 {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+  color: rgb(255 255 255);
+  background: rgba(117, 192, 105, 0.976);
+  padding: 0.5rem;
+  font-family: -apple-system, Segoe UI, Helvetica Neue, sans-serif;
+  border-radius: 20px;
+}
+/* .left-part9 -> index.css*/
+.left-part8:hover {
+  background-color: rgb(77, 135, 68);
+}
+.left-part10 {
+  width: 75%;
+  margin-left: 2rem;
+}
+.left-part11 {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  margin-bottom: 1rem;
+  font-weight: 550;
+  color: rgb(79 79 79);
+  font-family: -apple-system, Segoe UI, Helvetica Neue, sans-serif;
+}
+.left-part12 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.left-part13 {
+  font-size: 1.1rem;
+  line-height: 1.75rem;
+  margin: 0.5rem;
+  font-weight: 490;
+  color: rgb(79 79 79);
+  font-family: -apple-system, Segoe UI, Helvetica Neue, sans-serif;
+}
+.left-part14 {
+  width: 70%;
+  border-radius: 10px;
+  border: 1px solid rgba(153, 153, 153, 0.756);
+  height: 2rem;
+  padding: 0 1rem;
+}
+.left-part14[type="text"] {
+  font-size: 1.1rem;
+  font-weight: 490;
+  color: rgb(79 79 79);
+  font-family: -apple-system, Segoe UI, Helvetica Neue, sans-serif;
+}
+.left-part15 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+.left-part16 {
+  width: 5cm;
+}
+.left-part17 {
+  width: 75%;
+  background-color: #d8f5debb;
+  border-radius: 2rem;
+  padding: 1rem;
+  padding-top: 0rem;
+  border: groove;
+  margin-top: 1rem;
+}
+.left-part18 {
+  display: flex;
+  justify-content: center;
+}
+.left-part19 {
+  height: 2rem;
+  border-radius: 10px;
+  border-radius: 10px;
+  border: 1px solid rgba(153, 153, 153, 0.756);
+}
+.left-part20 {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  display: flex;
+  justify-content: center;
+}
+.left-part21 {
+  width: 65%;
+  height: 2.5rem;
+  border: 1px solid rgb(142, 141, 141);
+  border-right: none;
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+  padding-left: 1rem;
+}
+.left-part22 {
+  width: 12%;
+  height: 2.5rem;
+  font-family: -apple-system, Segoe UI, Helvetica Neue, sans-serif;
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+  font-weight: 500;
+  color: rgb(255 255 255);
+  background: rgba(117, 192, 105, 0.976);
+  border: 1px solid rgb(142, 141, 141);
+  border-left: none;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+  border-left: none;
+}
+.left-part22:hover {
+  background-color: rgb(52, 120, 42);
+  cursor: pointer;
+}
+.left-part23 {
+  padding: 1rem;
+}
+.left-part24 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(128, 128, 128, 0.757);
+  padding: 0.5rem;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border: 1px solid gray;
+}
+.left-part25 {
+  font-family: -apple-system, Segoe UI, Helvetica Neue, sans-serif;
+  font-size: 0.9rem;
+  font-weight: 500;
+  width: 100%;
+  color: black;
+  border-radius: 20px;
+}
+.left-part251{
+  width: 100%;
+
+}
+.left-part25 th{
+  color: white;
+  background-color: rgba(128, 128, 128, 0.757);
+}
+.left-part25 td, .left-part25 th{
+  padding: 1rem;
+  text-align: center;
+  font-family: -apple-system, Segoe UI, Helvetica Neue, sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+}
+.left-part26 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(255, 254, 254, 0.757);
+  padding: 0.5rem;
+  border: 1px solid gray;
+}
+.left-part27 {
+  font-family: -apple-system, Segoe UI, Helvetica Neue, sans-serif;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: rgb(79 79 79);
+}
+.left-part28 {
+  width: 25%;
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: rgb(79 79 79);
+  font-family: -apple-system, Segoe UI, Helvetica Neue, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.left-part29 {
+  height: 2rem;
+  margin: 0.5rem;
+}
+.left-part30 {
+  width: 48%;
+  height: 2.5rem;
+  font-size: 1.25rem;
+  font-weight: 500;
+  font-family: -apple-system, Segoe UI, Helvetica Neue, sans-serif;
+  border: 1px solid gray;
+  color: rgb(255 255 255);
+  background: rgba(117, 192, 105, 0.976);
+}
+.left-part30:hover {
+  background-color: rgb(52, 120, 42);
+  cursor: pointer;
+}
+.left-part31 {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.left-part32 {
+  width: 75%;
+  display: flex;
+  justify-content: center;
+}
+.left-part33 {
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+}
+.left-part34 {
+  border-bottom-right-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.left-part35 {
+  display: flex;
+  justify-content: center;
+}
+.left-part36 {
+  padding: 0.5rem 1rem;
+  margin: 0rem 0.5rem;
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: -apple-system, Segoe UI, Helvetica Neue, sans-serif;
+  color: rgb(255 255 255);
+  background: rgba(117, 192, 105, 0.976);
+  border: none;
+  border-radius: 10px;
+}
+.left-part36:hover {
+  cursor: pointer;
+  background-color: rgb(51, 107, 43);
+}
+.left-part37 {
+  padding: 0.5rem 1rem;
+  margin: 0rem 0.5rem;
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: -apple-system, Segoe UI, Helvetica Neue, sans-serif;
+  color: rgb(255, 255, 255);
+  background: rgba(88, 88, 88, 0.87);
+  border: none;
+  border-radius: 10px;
+}
+.left-part37:hover {
+  cursor: pointer;
+  background: rgb(61, 60, 60);
+}
